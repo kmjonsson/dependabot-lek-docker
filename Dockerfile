@@ -1,1 +1,1 @@
-FROM registry.hub.docker.com/python:3.14.0-slim
+FROM registry.hub.docker.com/python:3.14.1-slim
